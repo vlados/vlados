@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vlados&hide_title=false">
+
 I'm a software engineer, web developer and designer for the last 15 years. Currently I am living in Sofia, Bulgaria.
 
 I spend my days with my hands in many different areas of web development from back end programming (PHP, GoLang) to front end engineering (HTML, CSS, SCSS, JavaScript, Node.JS and Angular), server optimization, image optimization, user experience and visual design. I’m extremely passionate about web development and design in all its forms and helping small businesses and artists build and improve their online presence.
