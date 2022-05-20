@@ -10,7 +10,6 @@ I spend my days with my hands in many different areas of web development from ba
  - President of [Bulgarian Association for Electromobility](https://baem.bg)
 
 ## Find me around the web 🌎:
- - [email](mailto:vlado@stoitsov.net)
  - [YouTube](https://www.youtube.com/user/vlados01/)
  - [LinkedIn](https://www.linkedin.com/in/vstoitsov/)
  - [Medium](https://medium.com/@vstoitsov/)
