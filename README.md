@@ -1,6 +1,5 @@
+![Packagist Stats](https://github-readme-packagist-stats.vercel.app/api/packagist/card?vendor=vlados)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vlados&show_icons=true)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=vlados)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vlados&layout=compact)
 
 I'm a software engineer, web developer and designer for the last 15 years. Currently I am living in Sofia, Bulgaria.
 
